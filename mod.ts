@@ -9,5 +9,5 @@ export function isOdd(value: number): boolean {
   if (!Number.isSafeInteger(num)) {
     throw new Error("Value exceeds maximum safe integer");
   }
-  return (value % 2) === 1;
+  return (num % 2) === 1;
 }
