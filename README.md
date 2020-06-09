@@ -1,6 +1,6 @@
 # is-odd
 
-A simple module for testing package uploads with nest.land.
+A simple Deno module for testing package uploads with nest.land.
 
 ### Inspiration
 
