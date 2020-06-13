@@ -1,1 +1,1 @@
-{"name":"is-odd","description":"A simple package.","stable":true,"files":["./mod.ts","./README.md"]}
+{"name":"is-odd","description":"A simple package to determine if a number is odd.","stable":true,"files":["./mod.ts","./README.md"]}
